@@ -1,0 +1,16 @@
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 19 August 2020\02. Bee\bin\Debug\net5.0\02. Bee.exe
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 19 August 2020\02. Bee\bin\Debug\net5.0\02. Bee.deps.json
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 19 August 2020\02. Bee\bin\Debug\net5.0\02. Bee.runtimeconfig.json
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 19 August 2020\02. Bee\bin\Debug\net5.0\02. Bee.runtimeconfig.dev.json
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 19 August 2020\02. Bee\bin\Debug\net5.0\02. Bee.dll
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 19 August 2020\02. Bee\bin\Debug\net5.0\ref\02. Bee.dll
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 19 August 2020\02. Bee\bin\Debug\net5.0\02. Bee.pdb
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 19 August 2020\02. Bee\obj\Debug\net5.0\02. Bee.csprojAssemblyReference.cache
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 19 August 2020\02. Bee\obj\Debug\net5.0\02. Bee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 19 August 2020\02. Bee\obj\Debug\net5.0\02. Bee.AssemblyInfoInputs.cache
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 19 August 2020\02. Bee\obj\Debug\net5.0\02. Bee.AssemblyInfo.cs
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 19 August 2020\02. Bee\obj\Debug\net5.0\02. Bee.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 19 August 2020\02. Bee\obj\Debug\net5.0\02. Bee.dll
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 19 August 2020\02. Bee\obj\Debug\net5.0\ref\02. Bee.dll
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 19 August 2020\02. Bee\obj\Debug\net5.0\02. Bee.pdb
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 19 August 2020\02. Bee\obj\Debug\net5.0\02. Bee.genruntimeconfig.cache

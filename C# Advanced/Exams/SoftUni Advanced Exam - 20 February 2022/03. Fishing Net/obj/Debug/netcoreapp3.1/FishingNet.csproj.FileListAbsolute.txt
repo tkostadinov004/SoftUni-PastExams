@@ -1,0 +1,13 @@
+C:\Users\Lenovo User PC\source\repos\SoftUni Advanced Exam - 20 February 2022\03. Fishing Net\bin\Debug\netcoreapp3.1\FishingNet.exe
+C:\Users\Lenovo User PC\source\repos\SoftUni Advanced Exam - 20 February 2022\03. Fishing Net\bin\Debug\netcoreapp3.1\FishingNet.deps.json
+C:\Users\Lenovo User PC\source\repos\SoftUni Advanced Exam - 20 February 2022\03. Fishing Net\bin\Debug\netcoreapp3.1\FishingNet.runtimeconfig.json
+C:\Users\Lenovo User PC\source\repos\SoftUni Advanced Exam - 20 February 2022\03. Fishing Net\bin\Debug\netcoreapp3.1\FishingNet.runtimeconfig.dev.json
+C:\Users\Lenovo User PC\source\repos\SoftUni Advanced Exam - 20 February 2022\03. Fishing Net\bin\Debug\netcoreapp3.1\FishingNet.dll
+C:\Users\Lenovo User PC\source\repos\SoftUni Advanced Exam - 20 February 2022\03. Fishing Net\bin\Debug\netcoreapp3.1\FishingNet.pdb
+C:\Users\Lenovo User PC\source\repos\SoftUni Advanced Exam - 20 February 2022\03. Fishing Net\obj\Debug\netcoreapp3.1\FishingNet.csprojAssemblyReference.cache
+C:\Users\Lenovo User PC\source\repos\SoftUni Advanced Exam - 20 February 2022\03. Fishing Net\obj\Debug\netcoreapp3.1\FishingNet.AssemblyInfoInputs.cache
+C:\Users\Lenovo User PC\source\repos\SoftUni Advanced Exam - 20 February 2022\03. Fishing Net\obj\Debug\netcoreapp3.1\FishingNet.AssemblyInfo.cs
+C:\Users\Lenovo User PC\source\repos\SoftUni Advanced Exam - 20 February 2022\03. Fishing Net\obj\Debug\netcoreapp3.1\FishingNet.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo User PC\source\repos\SoftUni Advanced Exam - 20 February 2022\03. Fishing Net\obj\Debug\netcoreapp3.1\FishingNet.dll
+C:\Users\Lenovo User PC\source\repos\SoftUni Advanced Exam - 20 February 2022\03. Fishing Net\obj\Debug\netcoreapp3.1\FishingNet.pdb
+C:\Users\Lenovo User PC\source\repos\SoftUni Advanced Exam - 20 February 2022\03. Fishing Net\obj\Debug\netcoreapp3.1\FishingNet.genruntimeconfig.cache

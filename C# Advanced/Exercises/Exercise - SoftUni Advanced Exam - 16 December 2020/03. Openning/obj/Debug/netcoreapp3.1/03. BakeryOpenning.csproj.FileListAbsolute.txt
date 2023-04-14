@@ -1,0 +1,13 @@
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 16 December 2020\03. Openning\bin\Debug\netcoreapp3.1\03. BakeryOpenning.exe
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 16 December 2020\03. Openning\bin\Debug\netcoreapp3.1\03. BakeryOpenning.deps.json
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 16 December 2020\03. Openning\bin\Debug\netcoreapp3.1\03. BakeryOpenning.runtimeconfig.json
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 16 December 2020\03. Openning\bin\Debug\netcoreapp3.1\03. BakeryOpenning.runtimeconfig.dev.json
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 16 December 2020\03. Openning\bin\Debug\netcoreapp3.1\03. BakeryOpenning.dll
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 16 December 2020\03. Openning\bin\Debug\netcoreapp3.1\03. BakeryOpenning.pdb
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 16 December 2020\03. Openning\obj\Debug\netcoreapp3.1\03. BakeryOpenning.csprojAssemblyReference.cache
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 16 December 2020\03. Openning\obj\Debug\netcoreapp3.1\03. BakeryOpenning.AssemblyInfoInputs.cache
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 16 December 2020\03. Openning\obj\Debug\netcoreapp3.1\03. BakeryOpenning.AssemblyInfo.cs
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 16 December 2020\03. Openning\obj\Debug\netcoreapp3.1\03. BakeryOpenning.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 16 December 2020\03. Openning\obj\Debug\netcoreapp3.1\03. BakeryOpenning.dll
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 16 December 2020\03. Openning\obj\Debug\netcoreapp3.1\03. BakeryOpenning.pdb
+C:\Users\Lenovo User PC\source\repos\Exercise - SoftUni Advanced Exam - 16 December 2020\03. Openning\obj\Debug\netcoreapp3.1\03. BakeryOpenning.genruntimeconfig.cache
