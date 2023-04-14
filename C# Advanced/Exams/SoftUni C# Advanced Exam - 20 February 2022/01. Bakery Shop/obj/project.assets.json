@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo User PC\\source\\repos\\SoftUni Advanced Exam - 20 February 2022\\01. Bakery Shop\\01. Bakery Shop.csproj",
+      "projectUniqueName": "D:\\SoftUni\\SoftUni Past Exams\\C# Advanced\\Exams\\SoftUni C# Advanced Exam - 20 February 2022\\01. Bakery Shop\\01. Bakery Shop.csproj",
       "projectName": "01. Bakery Shop",
-      "projectPath": "C:\\Users\\Lenovo User PC\\source\\repos\\SoftUni Advanced Exam - 20 February 2022\\01. Bakery Shop\\01. Bakery Shop.csproj",
+      "projectPath": "D:\\SoftUni\\SoftUni Past Exams\\C# Advanced\\Exams\\SoftUni C# Advanced Exam - 20 February 2022\\01. Bakery Shop\\01. Bakery Shop.csproj",
       "packagesPath": "C:\\Users\\Lenovo User PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo User PC\\source\\repos\\SoftUni Advanced Exam - 20 February 2022\\01. Bakery Shop\\obj\\",
+      "outputPath": "D:\\SoftUni\\SoftUni Past Exams\\C# Advanced\\Exams\\SoftUni C# Advanced Exam - 20 February 2022\\01. Bakery Shop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo User PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
